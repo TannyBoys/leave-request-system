@@ -4,8 +4,6 @@ System Analysis and Design project focusing on transforming a paper-based univer
 
 - 🔗 [**Document**](https://drive.google.com/file/d/1aOEi42I229do91ea7dBpCnvLFr3Qx7jV/view?usp=sharing)
 
----
-
 ## 📌 Project Overview
 The Leave Request System is designed to manage and streamline the process of student leave requests within a university. The system supports leave submission, verification, approval, status updates, and notifications to all relevant stakeholders.
 
@@ -18,8 +16,6 @@ The Leave Request System is designed to manage and streamline the process of stu
 ## 🛠 Tools & Technologies
 - Draw.io : DFD Diagrams
 - Figma : UI Prototype
-
----
 
 ## 🧩 External Entities
 - Student
@@ -43,8 +39,6 @@ The Leave Request System is designed to manage and streamline the process of stu
 5. Update Leave Request Status  
 6. Notify Student and Related Parties  
 
----
-
 ## 📊 Data Flow Diagram
 
 ### Context Diagram
@@ -57,8 +51,6 @@ The Leave Request System is designed to manage and streamline the process of stu
 
 ### 🔗 [Figma Prototype](https://www.figma.com/proto/cCVhHqnRHclli1pDbTlSM8/6630200373_15?node-id=1-6865&p=f&t=NfUXtsdyPO5Ehz2r-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A6865&show-proto-sidebar=1)
 <img src="figma/prototype.PNG" width="800">
-
----
 
 ## 📚 Course Information
 System Analysis and Design  
