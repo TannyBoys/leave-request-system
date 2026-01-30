@@ -20,8 +20,8 @@ The system supports leave submission, verification, approval, status updates, an
 - Figma : UI Prototype
 
 ## 🎨 Document & Prototype
-🔗 [Document](https://drive.google.com/file/d/1aOEi42I229do91ea7dBpCnvLFr3Qx7jV/view?usp=sharing)
-🔗 [Prototype](https://www.figma.com/proto/cCVhHqnRHclli1pDbTlSM8/6630200373_15?node-id=1-6865&p=f&t=NfUXtsdyPO5Ehz2r-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A6865&show-proto-sidebar=1)
+- 🔗 [**Document**](https://drive.google.com/file/d/1aOEi42I229do91ea7dBpCnvLFr3Qx7jV/view?usp=sharing)
+- 🔗 [**Prototype**](https://www.figma.com/proto/cCVhHqnRHclli1pDbTlSM8/6630200373_15?node-id=1-6865&p=f&t=NfUXtsdyPO5Ehz2r-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A6865&show-proto-sidebar=1)
 
 ---
 
