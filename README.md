@@ -55,14 +55,14 @@ The system supports leave submission, verification, approval, status updates, an
 <img src="dfd/context-diagram.png" width="800">
 
 ### DFD Level 1
-<img src="dfd/dfd-level-1.png" width="800">
+<img src="dfd/level-1.png" width="800">
 
 ---
 
 ## 🎨 Figma Prototype
 
 ### Context Diagram
-<img src="figma/prototype.png" width="800">
+<img src="figma/prototype.PNG" width="800">
 
 ---
 
