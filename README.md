@@ -1,13 +1,13 @@
 # University Leave Request System
 
-System Analysis and Design project focusing on transforming a paper-based university leave request process into a structured information system.  
-This project focuses on business process analysis and system workflow design using Data Flow Diagrams (DFD) and process descriptions.
+System Analysis and Design project focusing on transforming a paper-based university leave request process into a structured information system. This project focuses on business process analysis and system workflow design using Data Flow Diagrams (DFD) and process descriptions.
+
+- 🔗 [**Document**](https://drive.google.com/file/d/1aOEi42I229do91ea7dBpCnvLFr3Qx7jV/view?usp=sharing)
 
 ---
 
 ## 📌 Project Overview
-The Leave Request System is designed to manage and streamline the process of student leave requests within a university.  
-The system supports leave submission, verification, approval, status updates, and notifications to all relevant stakeholders.
+The Leave Request System is designed to manage and streamline the process of student leave requests within a university. The system supports leave submission, verification, approval, status updates, and notifications to all relevant stakeholders.
 
 ## 🎯 Scope of Work
 - Business process analysis for a university leave request system
@@ -18,10 +18,6 @@ The system supports leave submission, verification, approval, status updates, an
 ## 🛠 Tools & Technologies
 - Draw.io : DFD Diagrams
 - Figma : UI Prototype
-
-## 🎨 Document & Prototype
-- 🔗 [**Document**](https://drive.google.com/file/d/1aOEi42I229do91ea7dBpCnvLFr3Qx7jV/view?usp=sharing)
-- 🔗 [**Prototype**](https://www.figma.com/proto/cCVhHqnRHclli1pDbTlSM8/6630200373_15?node-id=1-6865&p=f&t=NfUXtsdyPO5Ehz2r-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A6865&show-proto-sidebar=1)
 
 ---
 
@@ -57,9 +53,9 @@ The system supports leave submission, verification, approval, status updates, an
 ### DFD Level 1
 <img src="dfd/level-1.png" width="800">
 
-## 🎨 Figma Prototype
+## 🎨 UI Prototype
 
-### Context Diagram
+### 🔗 [Figma Prototype](https://www.figma.com/proto/cCVhHqnRHclli1pDbTlSM8/6630200373_15?node-id=1-6865&p=f&t=NfUXtsdyPO5Ehz2r-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A6865&show-proto-sidebar=1)
 <img src="figma/prototype.PNG" width="800">
 
 ---
@@ -67,8 +63,6 @@ The system supports leave submission, verification, approval, status updates, an
 ## 📚 Course Information
 System Analysis and Design  
 Kasetsart University, Sriracha Campus
-
----
 
 ## ✅ Notes
 This project is an academic system analysis project and does not contain real personal data.
